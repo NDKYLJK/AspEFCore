@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Web\\AspEFCore.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Data\\AspEFCore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Data\\AspEFCore.Data.csproj",
+        "projectName": "AspEFCore.Data",
+        "projectPath": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Data\\AspEFCore.Data.csproj",
+        "packagesPath": "C:\\Users\\20795\\.nuget\\packages\\",
+        "outputPath": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\20795\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Model\\AspEFCore.Model.csproj": {
+                "projectPath": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Model\\AspEFCore.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Model\\AspEFCore.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Model\\AspEFCore.Model.csproj",
+        "projectName": "AspEFCore.Model",
+        "projectPath": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Model\\AspEFCore.Model.csproj",
+        "packagesPath": "C:\\Users\\20795\\.nuget\\packages\\",
+        "outputPath": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\20795\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Web\\AspEFCore.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Web\\AspEFCore.Web.csproj",
+        "projectName": "AspEFCore.Web",
+        "projectPath": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Web\\AspEFCore.Web.csproj",
+        "packagesPath": "C:\\Users\\20795\\.nuget\\packages\\",
+        "outputPath": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\20795\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Data\\AspEFCore.Data.csproj": {
+                "projectPath": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Data\\AspEFCore.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

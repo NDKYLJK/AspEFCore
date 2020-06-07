@@ -1,0 +1,9 @@
+D:\collega-work\2020大二第二学期学习资料\软件开发\EFCore5\AspEFCore1\AspEFCore.Model\bin\Debug\netcoreapp2.1\AspEFCore.Model.deps.json
+D:\collega-work\2020大二第二学期学习资料\软件开发\EFCore5\AspEFCore1\AspEFCore.Model\bin\Debug\netcoreapp2.1\AspEFCore.Model.dll
+D:\collega-work\2020大二第二学期学习资料\软件开发\EFCore5\AspEFCore1\AspEFCore.Model\bin\Debug\netcoreapp2.1\AspEFCore.Model.pdb
+D:\collega-work\2020大二第二学期学习资料\软件开发\EFCore5\AspEFCore1\AspEFCore.Model\obj\Debug\netcoreapp2.1\AspEFCore.Model.csprojAssemblyReference.cache
+D:\collega-work\2020大二第二学期学习资料\软件开发\EFCore5\AspEFCore1\AspEFCore.Model\obj\Debug\netcoreapp2.1\AspEFCore.Model.AssemblyInfoInputs.cache
+D:\collega-work\2020大二第二学期学习资料\软件开发\EFCore5\AspEFCore1\AspEFCore.Model\obj\Debug\netcoreapp2.1\AspEFCore.Model.AssemblyInfo.cs
+D:\collega-work\2020大二第二学期学习资料\软件开发\EFCore5\AspEFCore1\AspEFCore.Model\obj\Debug\netcoreapp2.1\AspEFCore.Model.csproj.CoreCompileInputs.cache
+D:\collega-work\2020大二第二学期学习资料\软件开发\EFCore5\AspEFCore1\AspEFCore.Model\obj\Debug\netcoreapp2.1\AspEFCore.Model.dll
+D:\collega-work\2020大二第二学期学习资料\软件开发\EFCore5\AspEFCore1\AspEFCore.Model\obj\Debug\netcoreapp2.1\AspEFCore.Model.pdb

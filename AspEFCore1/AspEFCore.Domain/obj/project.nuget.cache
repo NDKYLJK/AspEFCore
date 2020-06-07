@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rlsp8oSqw2ACgzh25507/EFzyUGfsL85ClyR5/zd8ZbKYb/+6FwN0Q9mo+0aIQI0Z9SazPTPZEK/6E8uvlP5sA==",
+  "success": true,
+  "projectFilePath": "D:\\collega-work\\2020大二第二学期学习资料\\软件开发\\EFCore5\\AspEFCore1\\AspEFCore.Domain\\AspEFCore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20795\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\20795\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\20795\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\20795\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\20795\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\20795\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\20795\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

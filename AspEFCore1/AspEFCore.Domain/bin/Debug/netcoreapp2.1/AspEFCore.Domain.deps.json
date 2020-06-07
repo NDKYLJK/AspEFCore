@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "AspEFCore.Domain/1.0.0": {
+        "runtime": {
+          "AspEFCore.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspEFCore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
